@@ -5,6 +5,7 @@
 
 /* colors / parameters */
 .css-menu {
+	position: relative;
 	display: inline-block;
 	font: 12px/1em sans-serif;
 	}
