@@ -1,0 +1,16 @@
+body {
+	background: #bbb;
+}
+
+#demo {
+	width: 600px;
+	margin: auto;
+	padding: 10px;
+	text-align: justify;
+	font-size: 12px;
+	line-height: 1.5em;
+	color: #222;
+	}
+	#demo > span:first-child {
+		padding-left: 1em;
+		}
